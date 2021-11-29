@@ -9,7 +9,7 @@
 <div style="width:400px;text-align:center;">
 
 ```
-git clone https://github.com/coderz-dev/links.git
+git clone https://github.com/coderz-dev/coderz-news.git
 ```
 
 </div>
