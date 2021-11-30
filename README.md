@@ -32,6 +32,7 @@ git clone https://github.com/coderz-dev/coderz-news.git
 
 ### 🎧 פודקאסטים
 
+- [מיקרוסרביסים או מונוליט? יתרונות וחסרונות ומה צריך לבחור כשמתחילים פרויקט חדש](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2NvZGVyei9mZWVkLnhtbA/episode/Y29kZXJ6LnBvZGJlYW4uY29tLzg5MDQ2MmJhLTMwNDUtMzFlYi1iOTQwLWE5Yzk2YjEwOTY4OQ?sa=X&ved=0CAUQkfYCahcKEwiQwtaciMH0AhUAAAAAHQAAAAAQQg)
 - [איך להבין את הלא מובן מראש כשמחפשים משרות פיתוח כג׳וניורים/ות](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2NvZGVyei9mZWVkLnhtbA/episode/Y29kZXJ6LnBvZGJlYW4uY29tLzM3OTg0Y2Y4LWFiMDctMzAzNC1iZWM0LTliYTZkODNjMzE3OQ?sa=X&ved=0CAUQkfYCahcKEwjAp8DH9rz0AhUAAAAAHQAAAAAQQg)
 - [איך צוות פיתוח עובד בחברת הייטק? | מדריך מקיף על עולם ה- Agile וה- Scrum | מדריך למתחילים ומתקדמים](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2NvZGVyei9mZWVkLnhtbA/episode/Y29kZXJ6LnBvZGJlYW4uY29tL2U2N2E1ODFiLTUyNTgtMzAyNS1iODk0LWIyOWUxZjAwOWNhMA?sa=X&ved=0CAUQkfYCahcKEwjAp8DH9rz0AhUAAAAAHQAAAAAQQg)
 - [שני כהן מפתחת צד שרת מסבירה למה צריך להעיז ולאתגר את עצמך כל פעם מחדש עם קוד](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2NvZGVyei9mZWVkLnhtbA/episode/Y29kZXJ6LnBvZGJlYW4uY29tLzcxMDExMzlkLTcxM2QtMzdjMC1iZGU2LTQ1NzU0NDViNDhjZQ?sa=X&ved=0CAUQkfYCahcKEwjAp8DH9rz0AhUAAAAAHQAAAAAQQg)
@@ -64,6 +65,7 @@ git clone https://github.com/coderz-dev/coderz-news.git
 
 ### 📺 וידאו
 
+- [מיקרוסרביסים או מונוליט? יתרונות וחסרונות ומה צריך לבחור כשמתחילים פרויקט חדש](https://youtu.be/KJ6lz248WlE)
 - [תסמונת המתחזה בראיונות עבודה בהייטק | איך להתמודד עם זה?](https://www.youtube.com/watch?v=0K6ZJG5GuYY)
 - [JavaScript Promise - מדריך שלם בעברית](https://www.youtube.com/watch?v=31u9DtccOEc)
 - [Fetch API in JavaScript - מדריך בעברית](https://www.youtube.com/watch?v=5gdZSu9eFRg)
