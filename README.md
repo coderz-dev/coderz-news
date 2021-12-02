@@ -32,6 +32,7 @@ git clone https://github.com/coderz-dev/coderz-news.git
 
 ### 🎧 פודקאסטים
 
+- [פרדוקס גיוס ג׳וניורים בהייטק | ואיך יוצאים מהלופ הזה?](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2NvZGVyei9mZWVkLnhtbA/episode/Y29kZXJ6LnBvZGJlYW4uY29tLzA3NmY2NGU4LTNlNzQtMzY4OC05YmUyLWY4M2UyYTI2MzcwOA?sa=X&ved=0CAUQkfYCahcKEwjo_Lfs4MT0AhUAAAAAHQAAAAAQQg)
 - [מיקרוסרביסים או מונוליט? יתרונות וחסרונות ומה צריך לבחור כשמתחילים פרויקט חדש](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2NvZGVyei9mZWVkLnhtbA/episode/Y29kZXJ6LnBvZGJlYW4uY29tLzg5MDQ2MmJhLTMwNDUtMzFlYi1iOTQwLWE5Yzk2YjEwOTY4OQ?sa=X&ved=0CAUQkfYCahcKEwiQwtaciMH0AhUAAAAAHQAAAAAQQg)
 - [איך להבין את הלא מובן מראש כשמחפשים משרות פיתוח כג׳וניורים/ות](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2NvZGVyei9mZWVkLnhtbA/episode/Y29kZXJ6LnBvZGJlYW4uY29tLzM3OTg0Y2Y4LWFiMDctMzAzNC1iZWM0LTliYTZkODNjMzE3OQ?sa=X&ved=0CAUQkfYCahcKEwjAp8DH9rz0AhUAAAAAHQAAAAAQQg)
 - [איך צוות פיתוח עובד בחברת הייטק? | מדריך מקיף על עולם ה- Agile וה- Scrum | מדריך למתחילים ומתקדמים](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2NvZGVyei9mZWVkLnhtbA/episode/Y29kZXJ6LnBvZGJlYW4uY29tL2U2N2E1ODFiLTUyNTgtMzAyNS1iODk0LWIyOWUxZjAwOWNhMA?sa=X&ved=0CAUQkfYCahcKEwjAp8DH9rz0AhUAAAAAHQAAAAAQQg)
@@ -65,6 +66,7 @@ git clone https://github.com/coderz-dev/coderz-news.git
 
 ### 📺 וידאו
 
+- [פרדוקס גיוס ג׳וניורים בהייטק | ואיך יוצאים מהלופ הזה?](https://youtu.be/dfJzxduSwx4)
 - [מיקרוסרביסים או מונוליט? יתרונות וחסרונות ומה צריך לבחור כשמתחילים פרויקט חדש](https://youtu.be/KJ6lz248WlE)
 - [תסמונת המתחזה בראיונות עבודה בהייטק | איך להתמודד עם זה?](https://www.youtube.com/watch?v=0K6ZJG5GuYY)
 - [JavaScript Promise - מדריך שלם בעברית](https://www.youtube.com/watch?v=31u9DtccOEc)
